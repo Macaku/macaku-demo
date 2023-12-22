@@ -13,4 +13,4 @@ hello mamingsheng! hello git!
 hello mamingsheng! hello git!7
 hello mamingsheng! hello git!
 hello mamingsheng! hello git!8
-hello mamingsheng! hello git!
+hello mamingsheng! hello git! hot-fix test!
