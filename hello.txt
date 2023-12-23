@@ -19,14 +19,10 @@ hello mamingsheng! hello git!1
 hello mamingsheng! hello git!2
 hello mamingsheng! hello git!2
 hello mamingsheng! hello git!3
-hello mamingsheng! hello git!3
-hello mamingsheng! hello git!4
-hello mamingsheng! hello git!4
-hello mamingsheng! hello git!5
 hello mamingsheng! hello git!5
 hello mamingsheng! hello git!6
-hello mamingsheng! hello git!6
-hello mamingsheng! hello git!7
-hello mamingsheng! hello git!7
+hello mamingsheng! hello git!6hello mamingshenghello git7hello mamingsheng! hello git!7
 hello mamingsheng! hello git!8
+22222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222https://github.com/CarefreeState/git-test-demo.git
+22222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222https://github.com/CarefreeState/git-test-demo.git
 hello mamingsheng! hello git! master test!
